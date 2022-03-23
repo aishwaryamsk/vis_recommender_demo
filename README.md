@@ -2,4 +2,4 @@
 
 Ongoing Research
 
-**Link:** https://aishwaryamsk.github.io/vis_recommender_demo/
+**Link:** [Demo](https://aishwaryamsk.github.io/vis_recommender_demo/)
